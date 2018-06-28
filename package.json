@@ -1,0 +1,17 @@
+{
+  "name": "jest-babel-7",
+  "version": "1.0.0",
+  "description": "A test case for getting Jest to work with Babel 7",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+      "@babel/core": "7.0.0-beta.51",
+      "@babel/plugin-proposal-object-rest-spread": "7.0.0-beta.51",
+      "@babel/preset-env": "7.0.0-beta.51",
+      "babel-core": "^7.0.0-bridge.0",
+      "babel-jest": "^23.0.1",
+      "jest": "^23.1.0"
+  }
+}
