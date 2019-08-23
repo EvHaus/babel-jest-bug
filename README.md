@@ -1,5 +1,7 @@
 # Jest Babel Bug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvHaus/babel-jest-bug.svg)](https://greenkeeper.io/)
+
 This is a super weird Jest/Babel bug.
 
 ## Steps to reproduce
